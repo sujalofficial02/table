@@ -1,2 +1,2 @@
-# table
-3rd project in html
+# resume
+2nd project in html
